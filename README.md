@@ -60,6 +60,7 @@ This Power BI analysis explores sales performance and inventory management for M
 - **Star Performers**:
   - Colorbuds
   - Lego Bricks
+  - Barrel O'Slime
   - Magic Sand 
   - Action Figures 
 
